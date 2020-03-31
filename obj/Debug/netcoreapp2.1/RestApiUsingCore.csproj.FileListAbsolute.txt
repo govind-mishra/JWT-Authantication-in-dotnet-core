@@ -1,0 +1,17 @@
+C:\Users\IBM\Source\Repos\RestApiUsingCore\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\IBM\Source\Repos\RestApiUsingCore\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\IBM\Source\Repos\RestApiUsingCore\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\IBM\Source\Repos\RestApiUsingCore\bin\Debug\netcoreapp2.1\RestApiUsingCore.deps.json
+C:\Users\IBM\Source\Repos\RestApiUsingCore\bin\Debug\netcoreapp2.1\RestApiUsingCore.runtimeconfig.json
+C:\Users\IBM\Source\Repos\RestApiUsingCore\bin\Debug\netcoreapp2.1\RestApiUsingCore.runtimeconfig.dev.json
+C:\Users\IBM\Source\Repos\RestApiUsingCore\bin\Debug\netcoreapp2.1\RestApiUsingCore.dll
+C:\Users\IBM\Source\Repos\RestApiUsingCore\bin\Debug\netcoreapp2.1\RestApiUsingCore.pdb
+C:\Users\IBM\Source\Repos\RestApiUsingCore\obj\Debug\netcoreapp2.1\RestApiUsingCore.RazorAssemblyInfo.cache
+C:\Users\IBM\Source\Repos\RestApiUsingCore\obj\Debug\netcoreapp2.1\RestApiUsingCore.RazorAssemblyInfo.cs
+C:\Users\IBM\Source\Repos\RestApiUsingCore\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\IBM\Source\Repos\RestApiUsingCore\obj\Debug\netcoreapp2.1\RestApiUsingCore.AssemblyInfoInputs.cache
+C:\Users\IBM\Source\Repos\RestApiUsingCore\obj\Debug\netcoreapp2.1\RestApiUsingCore.AssemblyInfo.cs
+C:\Users\IBM\Source\Repos\RestApiUsingCore\obj\Debug\netcoreapp2.1\RestApiUsingCore.RazorTargetAssemblyInfo.cache
+C:\Users\IBM\Source\Repos\RestApiUsingCore\obj\Debug\netcoreapp2.1\RestApiUsingCore.dll
+C:\Users\IBM\Source\Repos\RestApiUsingCore\obj\Debug\netcoreapp2.1\RestApiUsingCore.pdb
+C:\Users\IBM\Source\Repos\RestApiUsingCore\obj\Debug\netcoreapp2.1\RestApiUsingCore.csprojAssemblyReference.cache
